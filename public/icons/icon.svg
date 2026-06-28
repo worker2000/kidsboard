@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#4f46e5"/>
+  <text x="256" y="340" font-size="260" text-anchor="middle" font-family="system-ui">🏠</text>
+  <!-- Family icon alternative -->
+  <circle cx="180" cy="200" r="40" fill="white" opacity="0.9"/>
+  <circle cx="332" cy="200" r="40" fill="white" opacity="0.9"/>
+  <circle cx="256" cy="155" r="32" fill="white" opacity="0.9"/>
+  <ellipse cx="180" cy="310" rx="60" ry="50" fill="white" opacity="0.9"/>
+  <ellipse cx="332" cy="310" rx="60" ry="50" fill="white" opacity="0.9"/>
+  <ellipse cx="256" cy="305" rx="55" ry="60" fill="white" opacity="0.95"/>
+</svg>

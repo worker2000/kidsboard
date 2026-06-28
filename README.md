@@ -308,7 +308,15 @@ src/
 
 ---
 
+## Migration / Vorgänger-Projekt
+
+Dieses Repository löst das alte **[Kinderboard](https://github.com/worker2000/Kinderboard)** ab.  
+Das Kinderboard war eine PHP/Python-basierte Vorgänger-Version desselben Projekts. Kidsboard ist der vollständige Neuaufbau als Next.js-App mit JSON-Backend, modernem UI und deutlich erweitertem Funktionsumfang.
+
+---
+
 ## Links
 
 - **Website:** [flessinglabs.com](https://flessinglabs.com)
+- **Vorgänger:** [github.com/worker2000/Kinderboard](https://github.com/worker2000/Kinderboard) *(veraltet, nicht mehr aktiv)*
 - **Repository:** [github.com/worker2000/kidsboard](https://github.com/worker2000/kidsboard)
